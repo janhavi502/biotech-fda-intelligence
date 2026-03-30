@@ -1,0 +1,37 @@
+{
+  "MRNA": {
+    "company": "Moderna, Inc.",
+    "market_cap": 18837874688,
+    "latest_close": 47.5,
+    "52_week_high": 59.55,
+    "52_week_low": 22.28
+  },
+  "BNTX": {
+    "company": "BioNTech SE",
+    "market_cap": 21417947136,
+    "latest_close": 85.22,
+    "52_week_high": 124.0,
+    "52_week_low": 79.52
+  },
+  "REGN": {
+    "company": "Regeneron Pharmaceuticals, Inc.",
+    "market_cap": 79526141952,
+    "latest_close": 752.23,
+    "52_week_high": 821.11,
+    "52_week_low": 476.49
+  },
+  "BIIB": {
+    "company": "Biogen Inc.",
+    "market_cap": 27609681920,
+    "latest_close": 188.13,
+    "52_week_high": 202.41,
+    "52_week_low": 110.04
+  },
+  "GILD": {
+    "company": "Gilead Sciences, Inc.",
+    "market_cap": 169405693952,
+    "latest_close": 136.49,
+    "52_week_high": 157.29,
+    "52_week_low": 93.37
+  }
+}

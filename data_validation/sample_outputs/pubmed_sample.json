@@ -1,0 +1,437 @@
+{
+  "pmids": [
+    "41895777",
+    "41806521",
+    "41794169",
+    "41734328",
+    "41721163"
+  ],
+  "articles": {
+    "41895777": {
+      "uid": "41895777",
+      "pubdate": "2026 Apr",
+      "epubdate": "",
+      "source": "Anticancer Res",
+      "authors": [
+        {
+          "name": "Chawla SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeffrey S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pang SS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jones RL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "VAN Gool SW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huber T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kosmal J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chawla NS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carter R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simone CB 2nd",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nael K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bruckner H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gattani A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song PY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hall FL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gordon EM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gordon EM",
+      "title": "Analysis of Clinical Benefit Using DNG64-CAR-V Chimeric Tumor Targeted Amphotropic RNA Vector in CCNG1 Expressing Cancers.",
+      "sorttitle": "analysis of clinical benefit using dng64 car v chimeric tumor targeted amphotropic rna vector in ccng1 expressing cancers",
+      "volume": "46",
+      "issue": "4",
+      "pages": "2025-2034",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8102988",
+      "issn": "0250-7005",
+      "essn": "1791-7530",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41895777"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.21873/anticanres.18091"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "46/4/2025"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/28 00:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/28 00:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/27 20:52"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Anticancer research",
+      "elocationid": "doi: 10.21873/anticanres.18091",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/01 00:00",
+      "sortfirstauthor": "Chawla SP",
+      "vernaculartitle": ""
+    },
+    "41806521": {
+      "uid": "41806521",
+      "pubdate": "2026 Mar 5",
+      "epubdate": "2026 Mar 5",
+      "source": "Eur J Cancer",
+      "authors": [
+        {
+          "name": "Robert C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "G\u00e9rard E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lanoy E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qu\u00e9reux G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernard P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Viguier M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grange F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meyer N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dinulescu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Legoupil D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neidhardt EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saiag P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trabelsi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "C\u00e9l\u00e9rier P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nardin C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maubec E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duval-Modeste AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hainaut E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Darras S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maillard H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guegan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arnault JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stoebner PE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "LE Corre Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peuvrel L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bonniaud B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Herrscher H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Granel-Brocard F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vataire AL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tabellion A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lebb\u00e9 C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mortier L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mortier L",
+      "title": "Cemiplimab versus historical systemic treatments for locally advanced or metastatic cutaneous squamous cell carcinomas: Results from the French study TOSCA.",
+      "sorttitle": "cemiplimab versus historical systemic treatments for locally advanced or metastatic cutaneous squamous cell carcinomas results from the french study tosca",
+      "volume": "238",
+      "issue": "",
+      "pages": "116596",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9005373",
+      "issn": "0959-8049",
+      "essn": "1879-0852",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41806521"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejca.2026.116596"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0959-8049(26)00376-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/22 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/11 01:11"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/11 01:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/10 19:04"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of cancer (Oxford, England : 1990)",
+      "elocationid": "doi: 10.1016/j.ejca.2026.116596",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/05 00:00",
+      "sortfirstauthor": "Robert C",
+      "vernaculartitle": ""
+    }
+  }
+}
